@@ -1,7 +1,6 @@
 # Horiseon-adjustment-
 
-Deployed Application: https://github.com/leeyoungk/Horiseon-adjustment-
-
+Deployed Application: https://leeyoungk.github.io/Horiseon-adjustment-/
 ## Description
 
 This is my first homework assignment of the bootcamp. This project is refactoring an existing site to make it more accsessible without changing any function of the webpage. 
