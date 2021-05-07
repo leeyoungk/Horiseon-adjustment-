@@ -15,8 +15,7 @@ After changing the HTML file, CSS file need to be changed corrsesponding to the 
 ## Usage
 We can take a quick look at the webpage but the web application hasnt added any functions into it yet.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
-
+[Horiseon Website Screenshot](\Horiseon-adjustment-\01-html-css-git-homework-demo.png)
 
 ## Credits
 
